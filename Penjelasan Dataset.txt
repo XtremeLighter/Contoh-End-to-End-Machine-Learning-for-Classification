@@ -1,0 +1,10 @@
+Tentang Dataset
+
+Andrew telah memulai perusahaan selulernya sendiri. Dia ingin memberikan perlawanan yang sulit kepada perusahaan-perusahaan besar seperti Apple, Samsung, dll.
+
+Dia tidak tahu bagaimana memperkirakan harga ponsel yang dibuat oleh perusahaannya. Di pasar ponsel yang kompetitif ini, Anda tidak bisa begitu saja mengasumsikan sesuatu. Untuk mengatasi masalah ini, dia mengumpulkan data penjualan ponsel dari berbagai perusahaan.
+
+Andrew ingin mengetahui hubungan antara fitur-fitur ponsel (misal: RAM, Memori Internal, dll) dan harga jualnya. Tetapi dia tidak begitu ahli dalam Machine Learning. Jadi dia membutuhkan bantuan Anda untuk menyelesaikan masalah ini.
+
+Dalam masalah ini Anda tidak perlu memprediksi harga aktual tetapi kisaran harga yang menunjukkan seberapa tinggi harga tersebut
+
